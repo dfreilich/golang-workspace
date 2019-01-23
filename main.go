@@ -1,4 +1,4 @@
-package golang_workspace
+package main
 
 import "fmt"
 
